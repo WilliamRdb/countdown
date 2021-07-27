@@ -1,0 +1,45 @@
+body {
+  background-image: url(./images/happy-new-year.jpg);
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.title__content {
+  color: White;
+  text-align: center;
+  margin: 5rem 0 3rem ;
+
+}
+
+.main {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 20rem;
+}
+.main__count {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 2rem;
+  color: #ffffff;
+}
+
+.main__content {
+  font-size: 4rem;
+}
+
+span {
+  font-size: 2rem;
+}
+
+.attribution { 
+  font-size: 1rem;
+  text-align: center; 
+  color: white;
+}
+.attribution a { 
+  color: hsl(228, 45%, 44%);
+}
